@@ -1,1 +1,1 @@
-A javaScript food delivery system that allows customers to check menu , make reservations and get the food delivered to them
+A javaScript ,Html and Css food delivery system that allows customers to check various foods menu , make reservations and get the food delivered 
