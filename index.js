@@ -21,7 +21,7 @@ function explore(){
         if(show.style.display!='none'){
             show.style.display = 'none';
         }else{
-            show.style.display = 'flex';
+            show.style.display = 'flex'
         }
     }       
     function none(id1, id2,id3, price){
