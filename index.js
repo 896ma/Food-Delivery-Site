@@ -15,7 +15,7 @@ setTimeout(() => {
     }
     
 }, 4500);
-let total = 0;
+let total = 0; 
 function explore(){
     let show = document.getElementById('intca')
         if(show.style.display!='none'){
