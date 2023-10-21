@@ -8,7 +8,7 @@ setTimeout(() => {
         alert("Good Afternoon " + name + ", We  hope You are doing well. Welcome to our site, We provide best quality food at such an affordable price that you will not regret after ordering from our site.")
     }
     else if(time.getHours()>=16 && time.getHours()<=22){
-        alert("Good Evening " + name + ", Hope You are doing well. Welcome to our site, We provide best quality food at such an affordable price that you will not regret after ordering from our site.")
+        alert("Good Evening " + name + ", Hope You are doing well.  Welcome to our site, We provide best quality food at such an affordable price that you will not regret after ordering from our site.")
     }
     else if(time.getHours()>=22 && time.getHours()<24){
         alert("Hello " + name + ", Hope You are doing well. Welcome to our site, We provide best quality food at such an affordable price that you will not regret after ordering from our site.")
