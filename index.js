@@ -48,7 +48,7 @@ function explore(){
             }
             if(parseInt(b.innerHTML)==0){
                     c.style.display = 'none';
-                    d.style.display = 'block';
+                    d.style.display = 'block'; 
             }
     }
     function apay(){
