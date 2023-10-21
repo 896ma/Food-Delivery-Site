@@ -15,7 +15,7 @@ header::before{
 
 }
 .navbar{
-    display: flex;
+    display: flex; 
     justify-content: center; 
     font-size: 1.5rem;
     font-weight: bold;
