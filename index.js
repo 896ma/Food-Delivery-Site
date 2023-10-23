@@ -11,7 +11,7 @@ setTimeout(() => {
         alert("Good Evening " + name + ", Hope You are doing well.  Welcome to our site, We provide best quality food at such an affordable price that you will not regret after ordering from our site.")
     }
     else if(time.getHours()>=22 && time.getHours()<24){
-        alert("Hello " + name + ", Hop You are doing well. Welcome to our site, We provide best quality food at such an affordable price that you will not regret after ordering from our site.")
+        alert("Hello " + name + ", Ho You are doing well. Welcome to our site, We provide best quality food at such an affordable price that you will not regret after ordering from our site.")
     }
     
 }, 4500);
